@@ -3,6 +3,8 @@ Customer segmentation and RFM analysis of a UK-based online retailer using Pytho
 
 # UK Online Retail — Customer Segmentation & RFM Analysis
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## Business Problem
 A UK-based online gift and homewares wholesaler needed to understand 
 who their most valuable customers are, whether they are retaining them, 
