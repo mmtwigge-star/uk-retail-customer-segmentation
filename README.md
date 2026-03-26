@@ -3,6 +3,10 @@ Customer segmentation and RFM analysis of a UK-based online retailer using Pytho
 
 # UK Online Retail — Customer Segmentation & RFM Analysis
 
+> Analysing 1M+ transactions from a UK wholesaler to segment 5,878 customers 
+> by value using Python, SQL and Power BI — revealing that 31% of customers 
+> drive 75.89% of revenue.
+
 ![Dashboard Preview](dashboard_preview.png)
 
 ## Business Problem
