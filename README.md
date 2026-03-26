@@ -56,3 +56,14 @@ UCI Online Retail II Dataset via Kaggle — 1M+ transactions,
 
 ## Kaggle Notebook
 [View full analysis on Kaggle](https://www.kaggle.com/code/matthewtwigge/uk-retailer-customer-segmentation-rfm)
+
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](dashboard_executive.png)
+
+### Customer Segments
+![Customer Segments](dashboard_segments.png)
+
+### Trends
+![Trends](dashboard_trends.png)
