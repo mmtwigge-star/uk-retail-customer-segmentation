@@ -56,7 +56,7 @@ UCI Online Retail II Dataset via Kaggle - 1M+ transactions,
 - `rfm_segments.csv` - customer level RFM scores and segments
 - `rfm_analysis.sql` - SQL queries for segment validation
 - `UK_Retail_Customer_Segmentation.pbix` - Power BI dashboard
-- Kaggle Notebook — data cleaning, EDA and RFM analysis
+- Kaggle Notebook - data cleaning, EDA and RFM analysis
 
 ## Kaggle Notebook
 [View full analysis on Kaggle](https://www.kaggle.com/code/matthewtwigge/uk-retailer-customer-segmentation-rfm)
